@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-transition",
+  "description": "Twitter Bootstrap's jQuery transition plugin",
+  "version": "3.1.1",
+  "author": "Twitter, Inc",
+  "bugs": "https://github.com/twbs/bootstrap/issues",
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "homepage": "http://getbootstrap.com/",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "Apache 2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terinjokes/bootstrap-transition.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
