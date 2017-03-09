@@ -5,7 +5,7 @@
   "author": "Twitter, Inc",
   "bugs": "https://github.com/twbs/bootstrap/issues",
   "dependencies": {
-    "jquery": "~2.1.0"
+    "jquery": "~3.1.1"
   },
   "homepage": "http://getbootstrap.com/",
   "keywords": [
